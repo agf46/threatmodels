@@ -1,0 +1,12 @@
+{
+  "summary": {
+    "title": "Threat Model 1",
+    "owner": "Akshay",
+    "description": "Quick one"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [],
+    "reviewer": "Akshay"
+  }
+}
